@@ -19,13 +19,13 @@ This also marks Day 2 of 30 Days of Conssitency.
 
 ### Screenshot
 
-![](./images/Screenshot%20(115).png)
+![](./assets/images/Screenshot%20(116).png)
 
 
 ### Links
 
-- Solution URL: https://github.com/Uyoyo-W/qr-code
-- Live Site URL: https://uyoyo-w.github.io/qr-code/
+- Solution URL: https://github.com/Uyoyo-W/blog-preview-card
+- Live Site URL: https://blog-preview-task.netlify.app/
 
 ## My process
 
@@ -35,9 +35,6 @@ This also marks Day 2 of 30 Days of Conssitency.
 - CSS custom properties
 
 
-### What I learned
-
-I learnt that I just really needed to take a step and start this challenge inspired by a friend of mine. In terms of the code, I learnt that the only way to remember what I knew but hadn't practiced in a while is by practicing.
 
 
 
