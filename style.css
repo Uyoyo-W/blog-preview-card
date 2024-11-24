@@ -43,6 +43,12 @@ body {
     font-weight: 800;
 }
 
+#main h3:hover{
+    font-weight: 800;
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
 #main p{
     font-size: 14px;
     line-height: 20px;
